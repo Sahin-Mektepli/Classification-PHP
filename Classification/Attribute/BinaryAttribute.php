@@ -1,5 +1,5 @@
 <?php
-namespace Attribute;
+namespace Classification\Attribute;
 require "DiscreteAttribute.php";
 class BinaryAttribute extends DiscreteAttribute
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Attribute;
+namespace Classification\Attribute;
 require "Attribute.php";
 
 #TODO: son iki metot yine bir şeyleri override ediyor ama acaba nedur

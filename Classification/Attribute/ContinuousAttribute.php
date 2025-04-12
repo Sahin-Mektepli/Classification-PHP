@@ -1,6 +1,6 @@
 <?php
 
-namespace Attribute;
+namespace Classification\Attribute;
 require "Attribute.php";
 /*
  * in php, there exists a core Attribute class, which causes a conflict.

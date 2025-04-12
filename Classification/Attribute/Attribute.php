@@ -1,5 +1,5 @@
 <?php
-namespace Attribute;
+namespace Classification\Attribute;
 abstract class Attribute
 {
     public abstract function continuousAttributes();

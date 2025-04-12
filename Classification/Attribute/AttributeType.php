@@ -1,5 +1,5 @@
 <?php
-
+namespace Classification\Attribute;
 enum AttributeType
 {
     case CONTINUOUS;

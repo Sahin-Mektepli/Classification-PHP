@@ -1,2 +1,20 @@
 {
+    "name": "dulumrae/php",
+    "description": "Staj",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Classification\\": "Classification/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sahin-mektepli",
+            "email": "sahin.mektepli@ozu.edu.tr"
+        }
+    ],
+    "require": {
+      "ext-dom": "*",
+      "ext-mysql_xdevapi": "*"
+    }
 }
