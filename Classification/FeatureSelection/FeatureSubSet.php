@@ -16,7 +16,7 @@ class FeatureSubSet
      * @throws InvalidArgumentException if neither int nor array
      * TODO: bu dokumantasyon daha iyi yapilabilir
      */
-    public function __construct($value){
+    public function __construct(int|array $value){
         if (is_array($value)) {
             $this->indexList = $value;
         }
